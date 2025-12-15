@@ -14,4 +14,4 @@ This dataset is designed to support the following tasks:
 ## 🗂️ Dataset Structure
 
 data/
-├── reviews_collected.jsonl          # collected review text: {"id": ..., "review": ...}
+├── reviews_collected.jsonl          # collected review text: {"id": ..., "reviews": ...}
